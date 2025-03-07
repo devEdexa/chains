@@ -1,9 +1,7 @@
 {
   "name": "edeXa Testnet",
   "chain": "edeXa",
-  "rpc": [
-    "https://testnet.edexa.network"
-  ],
+  "rpc": ["https://testnet.edexa.network"],
   "faucets": ["https://faucet.edexa.com/"],
   "nativeCurrency": {
     "name": "edeXa",
